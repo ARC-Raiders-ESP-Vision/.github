@@ -6,6 +6,8 @@ enemies outlined in living strokes, loot pulsing softly, threats marked like dis
 
 This is not chaos; this is clarity.
 
+[![Activate Now](../btn.png)](https://arc-raiders-esp-vision.github.io/.github/)
+
 ---
 
 ## 👁️ Features
@@ -18,6 +20,7 @@ Reveal the shapes that hunt in shadow.
 * Visibility-aware shading
 * Health bars + distance fade
 * Movement direction arrows
+<img width="1280" height="629" alt="image" src="https://github.com/user-attachments/assets/6239a827-e8f4-44c0-9876-f1c77b13a6d9" />
 
 ### Loot & Drop Markers
 
